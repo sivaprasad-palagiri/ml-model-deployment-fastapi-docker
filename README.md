@@ -157,3 +157,6 @@ Dubai, UAE
 
 LinkedIn:
 https://www.linkedin.com/in/sivaprasad-palagiri
+
+<img width="2936" height="1626" alt="image" src="https://github.com/user-attachments/assets/61b0ab9d-848e-466c-9c56-760003ee879c" />
+
